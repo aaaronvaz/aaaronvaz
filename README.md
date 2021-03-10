@@ -1,9 +1,11 @@
 # Welcome to my Github
 Today I share about myself. 
 ___
+## MY NAME
+My name Aaron, but people at college call me Aidan idk why. You can choose what you want to call me.
 
 ## MY FOTU
-My name Aaron Vaz and I look like this:<br>
+I look like this:<br>
 ![Aidan1](fotu1.jpg)<br>
 Then I become little big and look like this<br>
 ![Aidan2](fotu2.jpg)<br>
